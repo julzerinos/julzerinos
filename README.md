@@ -12,10 +12,8 @@
 
 # Coding ethos
 
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp; 💸💸💸 *an MIT License a day,*  <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 💸💸💸 *an MIT License a day,*  
 &nbsp;&nbsp;&nbsp;&nbsp; *keeps corporate greed away* 💸💸💸
-</p>
 
 <a href="https://github.com/julzerinos">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=julzerinos&show_icons=true&theme=radical" />
