@@ -2,7 +2,7 @@
 
 # Hey there 
 
-My name is Julian and I am a 
+I'm Julian and I am a
 
  * Compsci graduate 🎓
 
