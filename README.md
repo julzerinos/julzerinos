@@ -4,7 +4,7 @@
 
  * 🎓 Compsci graduate 🎉
 
- * 💼 IT Manager at P&G 📈
+ * 💼 IT manager at P&G 📈
 
  * 🐇 Proud rabbit foster papa ([Stowarzyszenie Pomocy Królikom](https://kroliki.net/pl/)) 🐰
 
