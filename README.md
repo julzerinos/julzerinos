@@ -1,16 +1,13 @@
-### Hi there 👋
+![banner](https://raw.githubusercontent.com/julzerinos/julzerinos/main/banner.png)
 
-<!--
-**julzerinos/julzerinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there 
 
-Here are some ideas to get you started:
+My name is Julian and I am a 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * Compsci graduate 🎓
+
+ * IT Manager at P&G 💼
+
+ * Proud rabbit foster father 🐇
+
+ * Video game maker (come [check me out](https://julzerinos.itch.io)) 🕹
