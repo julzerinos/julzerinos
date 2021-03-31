@@ -16,5 +16,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp; *keeps corporate greed away* 💸💸💸
 
 <a href="https://github.com/julzerinos">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=julzerinos&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=julzerinos&show_icons=true&theme=cobalt" />
 </a>
