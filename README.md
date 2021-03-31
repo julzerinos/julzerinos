@@ -12,13 +12,11 @@
 
 # Coding ethos
 
-&nbsp;&nbsp;&nbsp;&nbsp; 💸💸💸 *an MIT License a day,*  
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp; 💸💸💸 *an MIT License a day,*  <br>
 &nbsp;&nbsp;&nbsp;&nbsp; *keeps corporate greed away* 💸💸💸
+</p>
 
 <a href="https://github.com/julzerinos">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=julzerinos&show_icons=true&theme=radical" />
-</a>
-
-<a href="https://github.com/julzerinos">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julzerinos&theme=radical&layout=compact" />
 </a>
