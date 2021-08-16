@@ -28,12 +28,6 @@ Computer science graduate working as an IT manager at P&G. I love animals and ha
  
  #### Contact and social
 
-[![Itch.io](https://img.shields.io/badge/julian%27s-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://julzerinos.itch.io) 
-
-![Discord](https://img.shields.io/badge/julian%27s%233098-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) 
-
-[![LinkedIn](https://img.shields.io/badge/julian%20szachowicz-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szachowicz/)
-
-[![GitHub](https://img.shields.io/badge/julzerinos-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julzerinos)
+[![GitHub](https://img.shields.io/badge/julzerinos-%23121011.svg?style=social&logo=github)](https://github.com/julzerinos) &nbsp; [![Itch.io](https://img.shields.io/badge/julian%27s-%23FF0B34.svg?style=social&logo=Itch.io)](https://julzerinos.itch.io) &nbsp; ![Discord](https://img.shields.io/badge/julian%27s%233098-%237289DA.svg?style=social&logo=discord) &nbsp; [![LinkedIn](https://img.shields.io/badge/julian%20szachowicz-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/szachowicz/) 
 
 `</julian>`
