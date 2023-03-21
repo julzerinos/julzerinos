@@ -1,6 +1,6 @@
-![banner](https://raw.githubusercontent.com/julzerinos/julzerinos/main/banner.png)
-
 `<julian>`
+
+![banner](https://raw.githubusercontent.com/julzerinos/julzerinos/main/banner.png)
 
 Hey hello
 
